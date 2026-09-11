@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/spi_sim.dir/link.d CMakeFiles/spi_sim.dir/spi_sim.c.o -o spi_sim
