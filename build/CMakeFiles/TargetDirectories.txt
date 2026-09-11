@@ -1,0 +1,3 @@
+/home/zulfi/Project/spi-learn/build/CMakeFiles/spi_sim.dir
+/home/zulfi/Project/spi-learn/build/CMakeFiles/edit_cache.dir
+/home/zulfi/Project/spi-learn/build/CMakeFiles/rebuild_cache.dir

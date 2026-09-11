@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/zulfi/Project/spi-learn/build",
+  "command": "/usr/bin/gcc -g -std=c11 -Wall -Wextra -o CMakeFiles/spi_sim.dir/spi_sim.c.o -c /home/zulfi/Project/spi-learn/spi_sim.c",
+  "file": "/home/zulfi/Project/spi-learn/spi_sim.c",
+  "output": "CMakeFiles/spi_sim.dir/spi_sim.c.o"
+}
+]
